@@ -1,2 +1,2 @@
-# Tablpuri-de-numerereprezentate-ca-tablouri
+# Tablouri-de-numerereprezentate-ca-tablouri
 My first OOP project 
